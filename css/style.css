@@ -817,13 +817,11 @@ color: #797D7F ;
 
  .nav,.nav__header{
   text-align: center;
-    flex-direction: column;
-    align-itemse:center;
-    margin-bottom:30px;
+  flex-direction: column;
+   align-itemse:center;
+   margin-bottom:30px;
   
  }
-
-
 
   .navbar,.header__content__logo{
     display: none;
