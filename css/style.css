@@ -218,13 +218,13 @@
   padding: 14px;
 }
 
-.fa-bars, .right__scrol__text p, .fa-angle-down {
+.fa-bars, .right__scrol__text h3, .fa-angle-down {
   color: white;
   font-size: 20px;
   margin: -3px;
 }
 
-.right__scrol__text p {
+.right__scrol__text h3 {
   margin-left: 40px;
 }
 
@@ -567,6 +567,7 @@ color: #797D7F ;
   border: 1px solid transparent;
   transition: all 0.8s ease;
   border-radius: 3px;
+  text-decoration: none;
 }
 
 .section__contente__soc__icon li {
